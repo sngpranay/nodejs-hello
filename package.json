@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-hello",
+  "version": "1.0.0",
+  "description": "Simple Hello ",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Pranay Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
